@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello, I'm Estevan 👋
 
+I am an aspiring software engineer at the University of Illinois Chicago.
 <!--
 **EstevanHuerta/EstevanHuerta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
